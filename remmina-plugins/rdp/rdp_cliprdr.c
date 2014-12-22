@@ -34,6 +34,7 @@
 
 #include "rdp_plugin.h"
 #include "rdp_cliprdr.h"
+#include "cliprdr.h"
 
 #include <freerdp/freerdp.h>
 #include <freerdp/utils/event.h>
